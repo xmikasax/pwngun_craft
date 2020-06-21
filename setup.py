@@ -14,4 +14,6 @@ setuptools.setup(
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: POSIX :: Linux",
     ],
+
+    packages=['pwngun_craft']
 )
