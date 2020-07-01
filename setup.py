@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='pwngun_craft',
-    version='0.0.1',
+    version='0.1.0',
     author="fl3x3dd",
     author_email="xmikasax.ctf@gmail.com",
     license="gpl-3.0",
